@@ -12,6 +12,7 @@ Brand Vs Efficiency
  ![image](https://user-images.githubusercontent.com/37030745/175138933-028d0248-0d22-484a-befb-91b909eb8a27.png)
 
 3) Does a difference in power train effect the range, top speed, efficiency?
+
 ![image](https://user-images.githubusercontent.com/37030745/175140122-035b1a25-ac90-4577-96a7-0d17be89a1fa.png)
 ![image](https://user-images.githubusercontent.com/37030745/175139546-5021af0c-008f-4435-bc48-9710385f4846.png)
 ![image](https://user-images.githubusercontent.com/37030745/175140570-941810cd-78fb-4854-8e28-3aa348849e72.png)
@@ -20,6 +21,9 @@ Brand Vs Efficiency
 4) Which manufacturer has the greatest number of vehicles?
 Tesla produces most number of vehicles
 5) How does price relate to rapid charging?
+
+![image](https://user-images.githubusercontent.com/37030745/175141204-e5fd3e43-5be8-46fc-a958-8433d012e3da.png)
+
 Cars having rapid charge are more costly
  
 Conclusion:
