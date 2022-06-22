@@ -3,6 +3,8 @@ Project Title: Quickest Electric Cars
 Project Scope: 1) Which car has the fastest 0-100 acceleration?
 Fastest car is in the brand name “Lucid”
 Brand vs acceleration in sec
+![image](https://user-images.githubusercontent.com/37030745/175138545-e7379574-4668-4897-906a-7496584d9996.png)
+
  
 2) Which has the highest efficiency?
 Byton have the highest efficiency
