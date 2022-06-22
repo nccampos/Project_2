@@ -15,7 +15,7 @@ Brand Vs Efficiency
 
 ![image](https://user-images.githubusercontent.com/37030745/175140122-035b1a25-ac90-4577-96a7-0d17be89a1fa.png)
 ![image](https://user-images.githubusercontent.com/37030745/175139546-5021af0c-008f-4435-bc48-9710385f4846.png)
-![image](https://user-images.githubusercontent.com/37030745/175140570-941810cd-78fb-4854-8e28-3aa348849e72.png)
+![image](https://user-images.githubusercontent.com/37030745/175141384-6723ea46-97cb-46ec-882c-a58ec963b45b.png)
 
   
 4) Which manufacturer has the greatest number of vehicles?
