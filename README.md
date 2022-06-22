@@ -13,6 +13,7 @@ Brand Vs Efficiency
 
 3) Does a difference in power train effect the range, top speed, efficiency?
  
+![image](https://user-images.githubusercontent.com/37030745/175139546-5021af0c-008f-4435-bc48-9710385f4846.png)
 
   
 4) Which manufacturer has the greatest number of vehicles?
