@@ -9,7 +9,8 @@ Brand vs acceleration in sec
 2) Which has the highest efficiency?
 Byton have the highest efficiency
 Brand Vs Efficiency
- 
+ ![image](https://user-images.githubusercontent.com/37030745/175138933-028d0248-0d22-484a-befb-91b909eb8a27.png)
+
 3) Does a difference in power train effect the range, top speed, efficiency?
  
 
