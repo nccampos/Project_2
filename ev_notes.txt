@@ -1,0 +1,8 @@
+The electric_vehicles table is a combination of two of the data sources (quickest electric cars and registrations). It as a surrogate key. Each row is a type of car. We have no serial numbers so we don't have individual cars.
+
+The charging stations table is based on the station source. It contains no car information.
+
+The transaction table that was created (charges) represents a charging for a car type and a specific station at a specific date.
+
+The registration table is unconnected to anything. As it is it can provide information on vehicles sold (registered) by geography, and that can probably be matched with charging stations by geography, but I would match it by sql not by keys.
+ 
