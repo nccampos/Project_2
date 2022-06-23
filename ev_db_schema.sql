@@ -1,3 +1,6 @@
+-- Drop tables if already existing
+DROP TABLE IF EXISTS ca, co, fl, tx, mn, nj, ny, tn, va, wa
+
 -- Create tables for data to be loaded into
 CREATE TABLE ca (
 Model TEXT,
