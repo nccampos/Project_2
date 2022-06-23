@@ -1,6 +1,47 @@
-# Project_2
-Project Title: Quickest Electric Cars
-Project Scope: 1) Which car has the fastest 0-100 acceleration?
+#ETL: Electric Cars
+
+## Purpose
+To see ownership of electric vehicles by state, and whether there is a correlation between vehicle speed and ownership.
+
+
+## Data Sources
+
+-Quickest Electric Cars
+https://www.kaggle.com/datasets/kkhandekar/quickest-electric-cars-ev-database
+(Kaggle)
+
+-EV Vehicle Registrations by State
+https://www.atlasevhub.com/materials/state-ev-registration-data/
+(Atlas EV Hub, Open Vehicle Registration Initiative)
+
+*Note: Due to the large file size of several datasets used in this project, we were unable to upload those original files to this repository.
+When trying these programs yourself, please make sure to download the following files:
+
+-ca_ev_registrations_public.csv (Atlas EV Hub)
+-ny_ev_registrations_public.csv (Atlas EV Hub)
+-wa_ev_registrations_public.csv (Atlas EV Hub)
+
+...and place them within the 'Resources' folder.*
+
+
+## Process
+
+For the state registration data, we decided to limit the data to the top ten states with the most data.
+We downloaded all the csv files, and imported them into Python using pandas.
+
+We then cleaned the data with the following processes:
+-Deleted null values
+-Renamed columns across all dataframes
+-Added new columns for state abbreviations
+-Deleted superfluous columns
+-Separated columns listing both make and model of cars into two
+-Found total amounts of each unique make and model, and grouped into new dataframes
+
+Once all the data was cleaned, we exported the results to SQL, using sqlalchemy and PostGRE SQL.
+
+
+## Insights
+
 Fastest car is in the brand name “Lucid”
 Brand vs acceleration in sec
 ![image](https://user-images.githubusercontent.com/37030745/175138545-e7379574-4668-4897-906a-7496584d9996.png)
