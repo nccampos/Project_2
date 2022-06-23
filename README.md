@@ -1,4 +1,4 @@
-#ETL: Electric Cars
+# ETL: Electric Cars
 
 ## Purpose
 To see ownership of electric vehicles by state, and whether there is a correlation between vehicle speed and ownership.
