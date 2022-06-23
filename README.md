@@ -17,9 +17,9 @@ https://www.atlasevhub.com/materials/state-ev-registration-data/
 *Note: Due to the large file size of several datasets used in this project, we were unable to upload those original files to this repository.
 When trying these programs yourself, please make sure to download the following files:
 
--ca_ev_registrations_public.csv (Atlas EV Hub)
--ny_ev_registrations_public.csv (Atlas EV Hub)
--wa_ev_registrations_public.csv (Atlas EV Hub)
+- ca_ev_registrations_public.csv (Atlas EV Hub)
+- ny_ev_registrations_public.csv (Atlas EV Hub)
+- wa_ev_registrations_public.csv (Atlas EV Hub)
 
 ...and place them within the 'Resources' folder.*
 
@@ -30,12 +30,12 @@ For the state registration data, we decided to limit the data to the top ten sta
 We downloaded all the csv files, and imported them into Python using pandas.
 
 We then cleaned the data with the following processes:
--Deleted null values
--Renamed columns across all dataframes
--Added new columns for state abbreviations
--Deleted superfluous columns
--Separated columns listing both make and model of cars into two
--Found total amounts of each unique make and model, and grouped into new dataframes
+- Deleted null values
+- Renamed columns across all dataframes
+- Added new columns for state abbreviations
+- Deleted superfluous columns
+- Separated columns listing both make and model of cars into two
+- Found total amounts of each unique make and model, and grouped into new dataframes
 
 Once all the data was cleaned, we exported the results to SQL, using sqlalchemy and PostGRE SQL.
 
